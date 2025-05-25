@@ -147,7 +147,7 @@ npm start
 
 ## 🔗 GitHub Repository
 
-👉 [https://github.com/Asmi1605/foodistan](https://github.com/Asmi1605/foodistan-fullstack)
+👉 [https://github.com/Asmi1605/foodistan-fullstack](https://github.com/Asmi1605/foodistan-fullstack)
 
 ---
 
