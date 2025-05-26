@@ -32,7 +32,7 @@
 - React.js
 - Axios
 - React Router DOM
-- CSS Modules / Tailwind CSS (if used)
+- CSS Modules 
 
 ### 🖥 Backend
 
